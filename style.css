@@ -1,3 +1,6 @@
+/* Instagram Layout 
+	RDSDEHAL
+*/
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300');
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 * {
@@ -210,7 +213,7 @@ color: #000;
 .container .info span .fa {
   color: #EF3B3A;
 }
-/* Index starts */
+/* Index page layout starts */
 
 .but {
     color: #fff !important;
